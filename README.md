@@ -11,5 +11,5 @@ This project encompasses a suite of functionalities, elegantly designed for an A
 - View Receipts: Allow users to review transaction receipts for a comprehensive financial overview.
 - Transaction History: Furnish a detailed record of past transactions for user reference.
 - Change PIN: Ensure account security with the ability to modify personal identification numbers.
-- 
+
 Utilizing Microsoft SQL Server Management Studio 18 for database management and NetBeans IDE 8.2 for Java source code execution, this project mandates two interconnected machines: one for the client (Phuoc_Client_FINAL) and the other for the server (Nganhang_Server_final). The integration relies on a shared network for seamless communication between the two components.
