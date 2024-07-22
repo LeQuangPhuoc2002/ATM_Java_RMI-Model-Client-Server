@@ -1,6 +1,6 @@
 # ATM_Java_RMI-Model-Client-Server-
 
-![Alt text](https://raw.githubusercontent.com/LeQuangPhuoc2002/Clothing-store-PHP/main/Screenshot%202024-01-01%20232937.png)
+![Alt text](https://raw.githubusercontent.com/LeQuangPhuoc2002/ATM_Java_RMI-Model-Client-Server/main/Screenshot%202024-01-01%20232937.png)
 
 This project encompasses a suite of functionalities, elegantly designed for an ATM system using Java RMI and a client-server architecture:
 - Login: Securely access the system with user credentials.
